@@ -30,6 +30,7 @@
         "@typescript-eslint"
     ],
     "root": true,
+    "ignorePatterns": ["src/test/*"],
     "rules": {
         "react/jsx-filename-extension": "off",
         "jsx-a11y/click-events-have-key-events": "off",
